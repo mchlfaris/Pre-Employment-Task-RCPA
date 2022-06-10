@@ -1,5 +1,5 @@
 // Michael Faris: farism@bc.edu
-// referenced: https://blog.logrocket.com/ 
+// referenced: https://blog.logrocket.com/create-react-native-search-bar-from-scratch/
 
 import React from 'react';
 import { View } from 'react-native';
